@@ -32,7 +32,7 @@ This repository contain only Apex Class that used for building JSON Payload.
 				System.debug(resultA);
 
 	- Product B
-  	```Apex
+  		```Apex
      	SysAB_ProductFormController.ProductFormWrapper req = new SysAB_ProductFormController.ProductFormWrapper();
 
 			req.productType = 'PB';
@@ -53,8 +53,8 @@ This repository contain only Apex Class that used for building JSON Payload.
 			System.debug(resultB);
 
 	- Product C
-  	```Apex
-  	SysAB_ProductFormController.ProductFormWrapper req = new SysAB_ProductFormController.ProductFormWrapper();
+  		```Apex
+  		SysAB_ProductFormController.ProductFormWrapper req = new SysAB_ProductFormController.ProductFormWrapper();
 
 		req.productType = 'PC';
 		req.clientId = 'C003';
