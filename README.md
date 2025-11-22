@@ -5,7 +5,7 @@ This repository contain only Apex Class that used for building JSON Payload.
 **How to run the code**
 1. Copy this code into your Salesforce Org.
 2. Run by "Execute Anonymous" In Developer Mode.
-3. Copy these code below into "Execute Anonymous" window. for each Product.
+3. Copy these code below into "Execute Anonymous" window for each Product.
    - Product A
      ```Apex
      		SysAB_ProductFormController.ProductFormWrapper req = new SysAB_ProductFormController.ProductFormWrapper();
